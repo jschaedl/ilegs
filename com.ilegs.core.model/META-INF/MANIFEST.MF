@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Model
+Bundle-SymbolicName: com.ilegs.core.model
+Bundle-Version: 1.0.0.alpha
+Bundle-Vendor: ILEGS
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.ilegs.core.model
