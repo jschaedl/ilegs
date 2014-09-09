@@ -38,5 +38,4 @@ public class LectureImpl implements ILecture {
 	public void setLectureDescription(String lectureDescription) {
 		this.lectureDescription = lectureDescription;
 	}
-	
 }
